@@ -17,7 +17,7 @@ Start Python: <br/>
 <br />
 <br />
 Create a list of commonly used passwords:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ARg3Lq8" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create a function to check the strength: <br/>
