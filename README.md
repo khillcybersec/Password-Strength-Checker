@@ -9,7 +9,7 @@ This is a basic password strength checker that I created in Python. This checks 
 
 - <b>Windows 10</b>
 
-<h2>Program walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Start Python: <br/>
