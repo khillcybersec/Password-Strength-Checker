@@ -13,7 +13,7 @@ This is a basic password strength checker that I created in Python. This checks 
 
 <p align="center">
 Start Python: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="(https://imgur.com/ARg3Lq8)"/>
 <br />
 <br />
 Create a list of commonly used passwords:  <br/>
